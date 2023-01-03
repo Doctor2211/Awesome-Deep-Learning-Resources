@@ -20,6 +20,7 @@ I ([Guillaume Chevalier](https://github.com/guillaume-chevalier)) have built thi
   - [Recurrent Neural Networks](#recurrent-neural-networks)
   - [Convolutional Neural Networks](#convolutional-neural-networks)
   - [Attention Mechanisms](#attention-mechanisms)
+  - [[comics](https://xn--220b953bd3h.com)
   - [Other](#other)
 - [YouTube and Videos](#youtube)
 - [Misc. Hubs and Links](#misc-hubs-and-links)
